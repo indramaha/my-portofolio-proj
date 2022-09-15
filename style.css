@@ -1,0 +1,16 @@
+/*body {
+    background-color: black;
+}*/
+
+.jumbotron {
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+    background-color: #131313;
+    color: #eeeeee;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    width: 95%;
+    text-align: center;
+    
+}
